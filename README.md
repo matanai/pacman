@@ -11,7 +11,7 @@ there are 50 balls left on the map.
 ## Requirements
 
 - GCC compiler https://gcc.gnu.org/install/download.html
-- SDL2 and SLD_image libraries https://www.libsdl.org/download-2.0.php
+- SDL2 and SDL_image libraries https://www.libsdl.org/download-2.0.php
 
 ## Installation
 
